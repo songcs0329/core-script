@@ -5,3 +5,4 @@
 4. callback
 5. closure
 6. prototype
+7. class
