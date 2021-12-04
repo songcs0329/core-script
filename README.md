@@ -4,3 +4,4 @@
 3. this
 4. callback
 5. closure
+6. prototype
