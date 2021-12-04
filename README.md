@@ -3,3 +3,4 @@
 2. 실행컨텍스트
 3. this
 4. callback
+5. closure
